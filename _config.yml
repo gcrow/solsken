@@ -25,7 +25,7 @@ baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://gcrow.github.io/img/sunfl_trans.png"
+logo: "https://github.com/gcrow/solsken/blob/master/img/sunfl_trans.png"
 
 # Pagination
 paginate: 5
