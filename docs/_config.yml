@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Enjoy an idyllic escape in the countryside of Varmland, Sweden at this lovely multi-family house in Filipstad!
   Njut av en idyllisk flykt på landsbygden i Värmland, Sverige i detta härliga flerfamiljshus i Filipstad!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.solrushus.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: infoseccrow
 github_username:  gcrow
 
