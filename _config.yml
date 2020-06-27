@@ -35,15 +35,36 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
+- title: BLog
+  url: /blog/
+- title: Details
+  url: /details/
+- title: Pictures
+  url: /pics/
+- title: Our Location
+  url: /loco/
+- title: Map
+  url: /map/
+- title: Booking
+  url: /booking/
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: Top
   url: "#top"
+- title: Home
+  url: /
+- title: Property Details
+  url: /details/
+- title: Location
+  url: /loco/
+- title: Booking
+  url: /booking/
+- title: Contact
+  url: /contact/
+
 
 # Collections
 collections:
