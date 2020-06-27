@@ -23,7 +23,7 @@ plugins:
 url: 'https://solroshus.com'
 baseurl: ''
 title: 'Solroshus'
-description: 'Välkommen till solroshuset!'
+description: 'Valkommen till Solroshuset!'
 permalink: pretty
 logo: "https://raw.githubusercontent.com/gcrow/solsken/master/img/sunfl_trans.png"
 
