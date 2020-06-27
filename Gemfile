@@ -17,9 +17,9 @@ source "https://rubygems.org"
 gem "github-pages", "= 206",  group: :jekyll_plugins
 
 # If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-end
+# group :jekyll_plugins do
+#  gem "jekyll-feed", "~> 0.6"
+# end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
@@ -33,3 +33,13 @@ end
 
 # Required to use a remote theme
 gem "jekyll-remote-theme", "= 0.4.1"
+
+# From Alembic Baseline Gemfile
+gem "jekyll-sitemap", "= 1.4.0"
+gem "jekyll-mentions", "= 1.5.1"
+gem "jekyll-paginate", "= 1.1.0"
+gem "jekyll-seo-tag", "= 2.6.1"
+gem "jekyll-redirect-from", "= 0.15.0"
+gem "jekyll-default-layout", "= 0.1.4"
+gem "jekyll-feed", "= 0.13.0"
+gem "jemoji", "= 0.11.1"
