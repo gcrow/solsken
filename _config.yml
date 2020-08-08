@@ -23,7 +23,7 @@ plugins:
 url: 'https://solroshus.com'
 baseurl: ''
 title: 'Solroshus'
-description: 'Välkommen till solroshuset!'
+description: 'Valkommen till Solroshuset!'
 permalink: pretty
 logo: "https://raw.githubusercontent.com/gcrow/solsken/master/img/sunfl_trans.png"
 
@@ -35,15 +35,36 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
 - title: Blog
   url: /blog/
+- title: Details
+  url: /details/
+- title: Pictures
+  url: /pics/
+- title: Our Location
+  url: /loco/
+- title: Map
+  url: /map/
+- title: Booking
+  url: /booking/
+- title: About
+  url: /about/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: Top
   url: "#top"
+- title: Home
+  url: /
+- title: Property Details
+  url: /details/
+- title: Location
+  url: /loco/
+- title: Booking
+  url: /booking/
+- title: Contact
+  url: /contact/
+
 
 # Collections
 collections:
